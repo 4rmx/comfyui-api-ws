@@ -21,7 +21,9 @@ You may use args `--listen` if you want to make the server listen to network con
 
 or use args `--port` to make the server listen on a specific port.
 
-and feel free to navigate the example eg. 
+and then change your ComfyUI server endpoint at file `/src/config`
+
+feel free to navigate the example eg. 
 `node src/01_api_basic.js`
 # support me
 

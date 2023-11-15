@@ -1,0 +1,26 @@
+{
+  "name": "comfyui-api-ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4rmx/comfyui-api-ws.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4rmx/comfyui-api-ws/issues"
+  },
+  "homepage": "https://github.com/4rmx/comfyui-api-ws#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cli-progress": "^3.12.0",
+    "uuid": "^9.0.1",
+    "ws": "^8.14.2"
+  }
+}

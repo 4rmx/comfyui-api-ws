@@ -15,6 +15,8 @@ or
 
 `yarn install`
 
+this workflow required costom_node `https://github.com/BlenderNeko/ComfyUI_ADV_CLIP_emb` 
+
 start ComfyUI server
 
 You may use args `--listen` if you want to make the server listen to network connections.
